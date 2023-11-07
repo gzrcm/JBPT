@@ -2,7 +2,10 @@
 title: "ABOUT"
 custom_attributes: ''
 custom_class: ''
-custom_css: ''
+custom_css: 'img {
+    max-width: 100%;
+    max-height: 100%;
+}'
 experience:
   enable: no
   experience_list:
